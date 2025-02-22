@@ -9,12 +9,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithamanohara&label=Profile%20views&color=0e75b6&style=flat" alt="udithamanohara" /> </p>
 
-- 👨‍💻 My Portfolio [test](test)
-
-- 📫 Email : **umsolutionslk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+-  Portfolio [test](test)
+
+-  Email : **umsolutionslk@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
