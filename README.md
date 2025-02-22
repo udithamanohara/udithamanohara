@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
--  Email : [test](test)
+  
+-  Email : **umsolutionslk@gmail.com**
 
 -  Email : **umsolutionslk@gmail.com**
 </p>
