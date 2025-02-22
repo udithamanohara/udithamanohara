@@ -11,11 +11,7 @@
 
 - 👨‍💻 My Portfolio [test](test)
 
-- 💬 Ask me about **Anything**
-
 - 📫 Email : **umsolutionslk@gmail.com**
-
-- ⚡ Fun fact **Im not cool :/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
